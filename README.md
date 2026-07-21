@@ -78,18 +78,5 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clichepasta&show_icons=true&theme=radical" alt="Rahul's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clichepasta&theme=radical" alt="Rahul's GitHub streak" />
-</p>
-
----
-
-<p align="center">📫 Reach me at <b>rahulpatnaiknb@gmail.com</b> or on <a href="https://linkedin.com/in/rahul-patnaik">LinkedIn</a></p>
+<p align="center">📫 Reach me at <b>rahulpatnaiknb@gmail.com</b> or on <a href="www.linkedin.com/in/rahul-patnaik-06">LinkedIn</a></p>
