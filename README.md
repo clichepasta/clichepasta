@@ -79,4 +79,4 @@
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 
-<p align="center">📫 Reach me at <b>rahulpatnaiknb@gmail.com</b> or on <a href="www.linkedin.com/in/rahul-patnaik-06">LinkedIn</a></p>
+<p align="center">📫 Reach me at <b>rahulpatnaiknb@gmail.com</b> or on <a href="https://www.linkedin.com/in/rahul-patnaik-06/">LinkedIn</a></p>
